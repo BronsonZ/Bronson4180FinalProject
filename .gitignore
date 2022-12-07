@@ -1,0 +1,11 @@
+BUILD
+.mbed
+compile_commands.json
+.clangd
+.cache
+mbed
+mbed-rtos
+X_NUCLEO_53L0A1
+Motor
+Motordriver
+4DGL-uLCD-SE
